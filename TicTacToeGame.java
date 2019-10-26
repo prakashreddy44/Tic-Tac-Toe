@@ -1,5 +1,5 @@
 /* 
- Author : G. SAI PRAKASH REDDY
+ Author : G.SAI PRAKASH REDDY
 Below code is for playing Tic - Tac - toe
 */
 
